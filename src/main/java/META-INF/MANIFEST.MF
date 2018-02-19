@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: r13_kolekcje.p02_hash_set.SetTest
+
